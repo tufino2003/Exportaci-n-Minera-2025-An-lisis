@@ -14,37 +14,6 @@ Según la fuente de noticias **RPP Noticias** (Alarcón, 2026), las exportacione
 - **Control de versiones:** Git / GitHub
 - **Documentación:** Markdown (.md)
 
----
+## Enlace del informe de exportación minera 2025
 
-## Estructura del Proyecto
-```text
-exportacion_minera_project/
-│
-├── data/
-│   ├── raw/
-│   ├── processed/
-│   └── external/
-│
-├── notebooks/
-│   ├── eda/
-│   ├── modeling/
-│   └── dashboards/
-│
-├── src/
-│   ├── extract/
-│   ├── transform/
-│   ├── analyze/
-│   └── visualize/
-│
-├── reports/
-│   ├── informe/
-│   │   ├── informe_exportacion_minera.md
-│   │   └── anexos/
-│   ├── excel/
-│   └── powerbi/
-│
-├── tests/
-├── docs/
-├── config/
-├── requirements.txt
-└── README.md
+[📄 Informe de Exportación Minera 2025](reports/informe/informe_exportacion_minera.md)
