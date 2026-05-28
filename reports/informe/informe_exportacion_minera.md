@@ -43,7 +43,7 @@ Analizar las exportaciones de cobre del Perú hacia América del Norte durante e
 
 #### 2.2 Objetivos específicos
 
-#### Objetivo 01: Determinar los principales puertos de llegada {#objetivos-especificos}
+#### Objetivo 01: Determinar los principales puertos de llegada 
 
 El objetivo de este análisis es identificar los principales puertos de llegada del cobre peruano exportado a América del Norte durante el año 2025. Este objetivo busca resaltar cuáles son los puertos más utilizados en la logística de exportación, permitiendo comprender mejor la estructura y concentración de los envíos hacia los destinos norteamericanos.
 El enfoque principal está en conocer la relevancia de cada puerto dentro del flujo comercial, destacando los puntos de entrada que concentran la mayor actividad exportadora. Esta identificación permitirá establecer un panorama claro de la distribución logística del cobre peruano hacia América del Norte, siendo un primer paso para estudios posteriores sobre eficiencia y planificación de exportaciones.
@@ -52,6 +52,26 @@ El enfoque principal está en conocer la relevancia de cada puerto dentro del fl
 
 ## 3. Resultados  
 
-### Desarrollo del Objetivo 01 
+### Resultado del Objetivo 01  : 
 
+#### Definción de variables
+
+| Variable          | Tipo                  | Escala de medición | Definición                                                         |
+|-------------------|----------------------|-----------------|--------------------------------------------------------------------|
+| País              | Cualitativa           | Nominal         | País de destino de la exportación (Estados Unidos, Canadá, México) |
+| Puerto de llegada | Cualitativa           | Nominal         | Puerto donde llega el cobre exportado                              |
+| US$ FOB           | Cuantitativa continua | Razón           | Valor total del lote exportado en dólares                          |
+| Peso Neto (Kg.)   | Cuantitativa continua | Razón           | Peso neto del lote exportado en kilogramos                         |
+| Cantidad          | Cuantitativa continua | Razón           | Número de unidades exportadas                                      |
+| Año               | Cualitativa           | Nominal         | Año de la exportación (2025)                                       |
+| Continente        | Cualitativa           | Nominal         | Continente de destino (América del Norte)                          |
+| Partida           | Cualitativa           | Nominal         | Código arancelario del cobre (7407100000)                          |
+
+
+#### Desarrollo 
+
+![Desarrollo-Objetivo01-Conteo-de-DUA.png](anexos/Desarrollo-Objetivo01-Conteo-de-DUA.png)
+![Desarrollo-Objetivo01-Suma-de-US-FOB.png](anexos/Desarrollo-Objetivo01-Suma-de-US-FOB.png)
+![Desarrollo-Objetivo01-SumaPesoNeto(kg).png](anexos/Desarrollo-Objetivo01-SumaPesoNeto%28kg%29.png)
+![Desarrollo-Objetivo01-Suma-de-Cantidad.png](anexos/Desarrollo-Objetivo01-Suma-de-Cantidad.png)
 ## 4. Bibliografía
